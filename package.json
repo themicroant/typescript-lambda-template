@@ -1,0 +1,13 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "A basic Typescript project template",
+  "main": "index.ts",
+  "scripts": {},
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
